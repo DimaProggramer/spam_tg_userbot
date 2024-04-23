@@ -4,7 +4,10 @@ The code is available to everyone and free of charge, it can be taken and modifi
 
 Floodweight can restrict you from sending messages FOREVER 
 
-There is only 1 argument (1 word) available in the .spam command because I'm stupid 
+Version 1:
+There is only 1 argument (1 word) available in the .spam text command because I'm stupid 
+Version 2:
+in code, wrte in text = "" your text, and userbot has been spam your text(no arguments)
 
 Damn you spammers 
 
